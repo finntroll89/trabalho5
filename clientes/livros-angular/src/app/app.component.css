@@ -1,0 +1,9 @@
+.box{
+    transition: transform 0.4s;
+    margin-left: 10%;
+    
+}
+
+.box:hover{
+    transform: scale(1.30)
+}
