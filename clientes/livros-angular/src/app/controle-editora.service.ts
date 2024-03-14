@@ -6,9 +6,9 @@ import {Editora} from "./editora";
 })
 export class ControleEditoraService {
   public edts: Array<Editora> = [
-    (new Editora(1,'Editora Becalete')),
-    (new Editora(2,'Editora Dialética')),
-    (new Editora(3,'Editora Ariel'))
+    (new Editora(1,'Editora Lua Azul')),
+    (new Editora(2,'Editora Mar Verde')),
+    (new Editora(3,'Editora Cyber crypto'))
   ]
 
   constructor() {}
