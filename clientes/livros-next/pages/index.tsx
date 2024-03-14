@@ -20,8 +20,9 @@ export default function Home() {
 
       <main>
         <div className={styles.container} >
-          <h1>Página Inicial</h1>
-          <h2>Trabalho-5</h2>
+          <h1>Página Inicial</h1><br />
+           <h2>LIVROS-NEXT</h2><br/>
+          <h2>Trabalho-5</h2><br/>
           <h2>Sistema de Gerenciamento de Livros - Banco de dados - Mongodb</h2>
 
           
