@@ -1,9 +1,9 @@
 import Editora from "../modelo/Editora";
 
 const edts: Editora[] = [
-    (new Editora(1,'Editora teste 01')),
-    (new Editora(2,'Editora teste 02')),
-    (new Editora(3,'Editora teste 03')),
+    (new Editora(1,'Edições Estrela do Norte')),
+    (new Editora(2,'Livros Alvorada Cultural')),
+    (new Editora(3,'Editora Céu Aberto')),
 
 ]
 
