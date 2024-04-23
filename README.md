@@ -8,8 +8,8 @@
 ## Livro-Servidor-API
 
 - Para rodar a aplicação Livro-Servidor-api em Node.Js, siga as etapas abaixo:
-- 1º npm install
-- 2º npm start
+- ### `1º npm install`
+- ### `2º npm start`
 
 
 
