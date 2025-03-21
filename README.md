@@ -6,7 +6,7 @@
 
 # Missão Prática | Nível 5 | Mundo 2
 
-* - Vamos colocar o framework para acessar um banco.
+*  Vamos colocar o framework para acessar um banco.
 
 - Servidor baseado em Noje.js, Express e Mongoose, acessando o banco de dados MongoDB
 - Front-ends baseados em ReactJS,Angular e NextJS .
